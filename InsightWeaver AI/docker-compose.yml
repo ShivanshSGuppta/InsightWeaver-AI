@@ -1,0 +1,10 @@
+services:
+  insightweaver:
+    build: .
+    ports:
+      - "8001:8001"
+    environment:
+      - DATA_DIR=/app/data
+    volumes:
+      - ./data:/app/data
+      - ./sample:/app/sample:ro

@@ -1,0 +1,13 @@
+Transaction ID,Date,Merchant,Category,Description,Amount,Currency,Payment Method
+TXN-1001,2024-08-01,Amazon,Shopping,Kindle books,"₹1,299.00",INR,Credit Card
+TXN-1002,2024-08-02,Starbucks,Food & Beverage,Coffee,"₹245",INR,UPI
+TXN-1003,2024-08-03,Uber,Transport,Ride to office,"₹180.50",INR,UPI
+TXN-1004,2024-08-03,Uber,Transport,Ride to office,"₹180.50",INR,UPI
+TXN-1005,2024/08/04,Swiggy,Food,Order #4491,"₹ 560",INR,UPI
+TXN-1006,04-08-2024,Electric Co,Utilities,Monthly bill,"1,850",INR,Netbanking
+TXN-1007,2024-08-06,Netflix,Subscriptions,Monthly subscription,"₹499",INR,Credit Card
+TXN-1008,2024-08-07,Salary Inc,Income,Monthly salary,"₹75,000",INR,Bank Transfer
+TXN-1009,2024-08-08,Local Store,Groceries,Vegetables and fruits,"₹ 430.00",INR,Cash
+TXN-1010,2024-09-01,Amazon,Shopping,Headphones,"₹2,499",INR,Credit Card
+TXN-1011,2024-09-02,Airline,Travel,Flight booking,"₹ 12,350.00",INR,Credit Card
+TXN-1012,2024-09-10,Gym,Health,Fitness membership,"₹1,200",INR,Credit Card
