@@ -1,7 +1,5 @@
 # InsightWeaver (Financial Data Extraction and Dashboarding Suite)
 
-![CI](https://github.com/<your-username>/<your-repo>/actions/workflows/ci.yml/badge.svg)
-
 A deployable MVP that turns messy finance exports (CSV, Excel, JSON) into **analytics-ready datasets** and a **dashboard preview**.
 
 **Portfolio-safe:** this is an original MVP codebase (not internship code) you can publish on GitHub.
@@ -23,14 +21,6 @@ A deployable MVP that turns messy finance exports (CSV, Excel, JSON) into **anal
 
 ---
 
-## Screenshots
-
-> Placeholders in `assets/` (replace with real screenshots later).
-
-![Upload](assets/screenshot-upload.png)
-![Dashboard](assets/screenshot-dashboard.png)
-
----
 
 ## Outputs
 
