@@ -2,10 +2,6 @@
 
 A deployable MVP that turns messy finance exports (CSV, Excel, JSON) into **analytics-ready datasets** and a **dashboard preview**.
 
-**Portfolio-safe:** this is an original MVP codebase (not internship code) you can publish on GitHub.
-
----
-
 ## What problem does it solve?
 
 ### Pain points
