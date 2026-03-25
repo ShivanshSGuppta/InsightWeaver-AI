@@ -25,6 +25,10 @@ For each run you get:
 - `schema.json`
 - `validation.json`
 - `report.json`
+- `Data Analysis`
+- `Custom Dashboards & Charts for respective files`
+- `Schema Summary: Field Intelligence`
+- `Validation: Trust Checks`
 
 ---
 
